@@ -7,7 +7,7 @@
 .bck{background-color: hsl(212, 45%, 89%);}
 
 .container{background-color: hsl(0, 0%, 100%);
-    width: 50%;
+    width: 600px;
     margin: auto;
     border-radius: 5%;
     display: flex;
